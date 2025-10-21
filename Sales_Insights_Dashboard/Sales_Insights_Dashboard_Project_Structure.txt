@@ -1,0 +1,16 @@
+sales-insights-dashboard/
+│
+├── data/
+│   ├── raw_sales.csv
+│
+├── src/
+│   ├── data_cleaning.py
+│   ├── data_analysis.py
+│   ├── data_visualization.py
+│   ├── main.py
+│
+├── reports/
+│   ├── sales_summary.pdf   # Generated after running main.py
+│
+├── README.md
+├── requirements.txt
